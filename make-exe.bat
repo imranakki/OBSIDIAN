@@ -1,0 +1,1 @@
+pyinstaller --onefile --workpath ./build --distpath ./build --specpath ./build -n OBSIDIAN ./src/main.py --add-data "../src/Titans.bin;."
