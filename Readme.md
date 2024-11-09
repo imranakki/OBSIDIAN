@@ -31,7 +31,7 @@ Meet OBSIDIAN, your free chess-playing companion written in Python. It may not b
 
   
 
-Challenge OBSIDIAN to a game using user-friendly interfaces like [PyChess](http://pychess.org/) or [Arena](http://www.playwitharena.de/).
+Challenge OBSIDIAN to a game using user-friendly interfaces like [PyChess](https://pychess.github.io/download/) or [Arena](http://www.playwitharena.de/).
 
   
 
